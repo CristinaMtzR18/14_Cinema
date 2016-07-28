@@ -1,0 +1,71 @@
+h1{
+  margin: 5px;
+}
+
+.lateral{
+  padding: 15px;
+}
+
+.fondo{
+	background: #FFF url("../img/banner.jpg");
+	background-repeat: no-repeat;
+	padding-bottom: 20%;
+	background-size: 100% 100%;
+}
+
+#ico{
+  height: 8%;
+  width: 8%;
+}
+
+.mIco{
+  position: absolute;
+  padding: 5px;
+  left: 31%;
+  top: 43%;
+}
+
+.cartelera {
+	padding: 4px;
+}
+
+.fila1{
+	width: 100%;
+}
+
+.fondoCartelera  {
+	background: yellow;
+}
+
+.pdm{
+ 	padding: 5% 26% 0%;
+ 	font-size: 13px;
+ }
+
+.mibus{
+	margin-top: 10px;
+	border: 1px gray solid;
+	padding: 5px;
+}
+
+.busca{
+	width: 10%;
+	float: right;
+	margin-top: -10%;
+}
+
+.p1{
+	color: white;
+}
+
+.miniBo{
+	color: #1FC11F;
+	border: #1FC11F 2px solid;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	margin-top: 10px;
+	text-align: center;
+	padding: 12px 6px;
+}
